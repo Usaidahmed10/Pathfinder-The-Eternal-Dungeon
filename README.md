@@ -53,7 +53,8 @@ Dungeon Game
 
 Below is an example screenshot of the game's user interface:
 
-*(Insert UI Screenshot Here)*
+![Screenshot 2025-01-05 171305](https://github.com/user-attachments/assets/77e08f71-03c7-447d-9fe8-d446b2930389)
+
 
 ## Contributing
 
