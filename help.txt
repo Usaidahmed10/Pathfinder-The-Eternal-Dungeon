@@ -1,0 +1,3 @@
+Type "go north/south/east/west" to move around.
+Type "show map" to see the full map and your position.
+You can always type "escape" to quit the game.
